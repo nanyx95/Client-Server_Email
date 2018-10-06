@@ -1,0 +1,19 @@
+/* 
+Questa versione dei permessi (da inserire nel grant) permette di connettersi da IP specifici - più sicura.
+     
+     grant {
+       permission java.net.SocketPermission "127.0.0.1:1024-65535", "accept,listen,resolve,connect";
+     };
+
+Questa versione di grant permette di connettersi da qualunque IP (pericolosa).
+
+     grant {
+       permission java.security.AllPermission;
+     };
+
+Ora io uso AllPermissions per potermi connettere da un IP diverso da 127.
+*/
+
+     grant {
+       permission java.security.AllPermission;
+     };

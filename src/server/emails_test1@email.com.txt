@@ -1,0 +1,4 @@
+▶7b5a5abb-0712-4713-bed9-7221307b1989♦test1@email.com♦test2@email.com♦Prova 1♦Email inviata da test1 a test2♦31/01/2018 13:47♦i◀
+▶7266c079-ab4c-4dc7-a5bb-773f79c8e493♦test3@email.com♦test1@email.com♦Prova 3♦Email inviata da test3 a test1♦31/01/2018 13:50♦r◀
+▶4a82e918-33a8-4f81-8352-3db7fcd1d03d♦test1@email.com♦test3@email.com♦Test 4♦Email inviata da test1 a test3♦31/01/2018 13:52♦i◀
+▶6471cf1e-5ffb-4500-b0fb-5b5b75fe9bcc♦test2@email.com♦test1@email.com♦Test 5♦Email inviata da test2 a test1♦31/01/2018 13:53♦r◀
